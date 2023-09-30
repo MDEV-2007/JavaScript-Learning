@@ -1,0 +1,13 @@
+.here{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 10px;
+    display: none;
+    transition: 2s linear;
+}
