@@ -1,5 +1,4 @@
-// let age = prompt('Yoshingizni kiriting')
-let age = 95
+let age = prompt('Yoshingizni kiriting')
 if(age < 18){
     alert('Uje zor')
 
